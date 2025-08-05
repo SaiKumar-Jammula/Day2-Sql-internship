@@ -11,7 +11,7 @@ This task focuses on practicing **Data Manipulation Language (DML)** operations 
 ## 🛠 Tools Used
 
 - **MySQL**
-- **DB Fiddle** / **MySQL Workbench**
+- **MySQL Workbench**
 - **GitHub** for version control
 
 ---
